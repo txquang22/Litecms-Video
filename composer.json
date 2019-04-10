@@ -1,0 +1,23 @@
+{
+    "name": "lavalite/videos",
+    "description": "",
+    "keywords": ["framework", "laravel", "lavalite", "Videos"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lavalite",
+            "email": "info@lavalite.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-0": {
+            "Lavalite\\Videos\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
